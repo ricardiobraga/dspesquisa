@@ -15,7 +15,6 @@ import javax.persistence.Table;
 
 import com.devsuperior.dspesquisa.entities.enums.Platform;
 
-
 @Entity
 @Table(name = "tb_game")
 public class Game implements Serializable{
