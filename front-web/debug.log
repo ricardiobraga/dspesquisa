@@ -1,0 +1,11 @@
+[0920/190145.013:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ricardio\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0920/190145.243:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0920/190145.460:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ricardio\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0920/190827.578:ERROR:crashpad_client_win.cc(132)] crash server failed to launch, self-terminating
+[0920/192747.859:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ricardio\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0920/192747.862:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0920/192747.864:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ricardio\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0920/193120.899:ERROR:crashpad_client_win.cc(132)] crash server failed to launch, self-terminating
+[0920/193909.425:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ricardio\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
+[0920/193909.516:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0920/193909.532:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ricardio\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acesso negado. (0x5)
